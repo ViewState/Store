@@ -1,5 +1,5 @@
-﻿using System.Data.Entity.ModelConfiguration;
-using Store.Model;
+﻿using Store.Model;
+using System.Data.Entity.ModelConfiguration;
 
 namespace Store.Data.Configuration
 {

@@ -1,12 +1,12 @@
-﻿using System.Reflection;
-using System.Web.Mvc;
-using Autofac;
+﻿using Autofac;
 using Autofac.Integration.Mvc;
 using AutoMapper;
 using Store.Data.Infrastructure;
 using Store.Data.Repositories;
 using Store.Services;
 using Store.Web.Mappings;
+using System.Reflection;
+using System.Web.Mvc;
 
 namespace Store.Web
 {

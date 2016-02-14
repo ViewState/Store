@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using Store.Model;
+using System.Collections.Generic;
 using System.Data.Entity;
-using Store.Model;
 
 namespace Store.Data
 {

@@ -1,7 +1,7 @@
-﻿using System;
-using AutoMapper;
+﻿using AutoMapper;
 using Store.Model;
 using Store.Web.ViewModels;
+using System;
 
 namespace Store.Web.Mappings
 {

@@ -1,7 +1,7 @@
-﻿using System;
-using System.Linq;
-using Store.Data.Infrastructure;
+﻿using Store.Data.Infrastructure;
 using Store.Model;
+using System;
+using System.Linq;
 
 namespace Store.Data.Repositories
 {

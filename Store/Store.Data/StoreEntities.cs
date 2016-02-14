@@ -1,6 +1,6 @@
-﻿using System.Data.Entity;
-using Store.Data.Configuration;
+﻿using Store.Data.Configuration;
 using Store.Model;
+using System.Data.Entity;
 
 namespace Store.Data
 {
